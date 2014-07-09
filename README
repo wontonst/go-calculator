@@ -1,0 +1,3 @@
+Calculator "language" written in go.
+
+The program is written with a lexical analyzer that parses user input, then generates c code that can be ran repeatedly with different inputs.
