@@ -1,3 +1,13 @@
 Calculator "language" written in go.
 
 The program is written with a lexical analyzer that parses user input, then generates c code that can be ran repeatedly with different inputs.
+
+This is what the script will look like
+
+<pre>
+input a b
+c = a * a
+c += b * b
+c = sqrt(c)
+return c
+</pre>
